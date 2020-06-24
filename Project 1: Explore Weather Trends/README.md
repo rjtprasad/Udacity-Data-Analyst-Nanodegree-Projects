@@ -17,3 +17,7 @@ Here are some questions:
  - What does the overall trend look like? 
  - Is the world getting hotter or cooler? 
  - Has the trend been consistent over the last few hundred years?
+
+## Resources
+- [Moving Averages - Simple and Exponential](https://school.stockcharts.com/doku.php?id=technical_indicators:moving_averages)
+- [Climate crisis](https://www.thelocal.de/20190712/climate-change-berlin-to-be-as-hot-as-australia-in-30-years)
