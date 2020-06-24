@@ -10,9 +10,10 @@ To do this project, I follow the steps below:
 2. Open up the CSV in Python.
 3. Create a line chart that compares city’s temperatures with the global temperatures.
 4. Make observations about the similarities and differences between the world averages and city’s averages, as well as overall trends. <br> 
-   Here are some questions:
-   - Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
-   - How do the changes in your city’s temperatures over time compare to the changes in the global average?
-   - What does the overall trend look like? 
-   - Is the world getting hotter or cooler? 
-   - Has the trend been consistent over the last few hundred years?
+
+Here are some questions:
+ - Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
+ - How do the changes in your city’s temperatures over time compare to the changes in the global average?
+ - What does the overall trend look like? 
+ - Is the world getting hotter or cooler? 
+ - Has the trend been consistent over the last few hundred years?
